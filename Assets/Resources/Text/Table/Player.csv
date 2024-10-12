@@ -1,0 +1,4 @@
+﻿Player,Name,MaxHealth,FullPicPath,HeadPicPath,StartCard
+101,战士,80,Texture/Character/101_Full,Texture/HeadIcon/101,10101|10102|10103|10104
+102,牧师,65,Texture/Character/102_Full,Texture/HeadIcon/102,10201|10202|10203|10204
+103,法师,55,Texture/Character/103_Full,Texture/HeadIcon/103,10301|10302|10303|10304

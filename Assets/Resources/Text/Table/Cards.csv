@@ -1,0 +1,13 @@
+﻿Cards,Name,IlluPath,ForeShake,Belong,Description,SpecialDescription,MaxTrainLv,ShopCost
+10101,打击,Texture/Cards/10101,5,101,造成/value1/点伤害,若/cond/，则造成/speValue1/点伤害,8,
+10102,防御,Texture/Cards/10102,6,101,获得/value1/点格挡,若/cond/，则获得/speValue1/点格挡,8,
+10103,全身冲撞,Texture/Cards/10103,8,101,造成与格挡相同的/value1/点伤害,若/cond/，则造成/speValue3/点伤害,8,
+10104,垫步斩,Texture/Cards/10104,6,101,前进/value1/，造成/value2/点伤害,若/cond/，则造成/speValue4/点伤害,8,
+10201,毒液飞溅,Texture/Cards/10201,4,102,造成/value1/点毒,若/cond/，则造成/speValue5/点伤害,8,
+10202,识破规律,Texture/Cards/10202,3,102,造成/value1/虚弱,若/cond/，则造成/speValue6/点伤害,8,
+10203,乐此不疲,Texture/Cards/10203,7,102,,若/cond/，则造成/speValue7/点伤害,8,
+10204,法术诱导,Texture/Cards/10204,9,102,,若/cond/，则造成/speValue8/点伤害,8,
+10301,援助祈言,Texture/Cards/10301,4,103,,若/cond/，则造成/speValue9/点伤害,8,
+10302,虔诚护盾,Texture/Cards/10302,3,103,,若/cond/，则造成/speValue10/点伤害,8,
+10303,神使之律,Texture/Cards/10303,8,103,,若/cond/，则造成/speValue11/点伤害,8,
+10304,守护之棘.,Texture/Cards/10304,9,103,,若/cond/，则造成/speValue12/点伤害,8,
